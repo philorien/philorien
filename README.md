@@ -13,7 +13,7 @@ Frontend engineer in Columbus, Ohio. I build accessible, component-driven web pr
 Client code is private. Case studies, decision records, and scan results live in my **[portfolio repo](https://github.com/philorien/portfolio)**.
 
 - **[Hope Presbyterian Church](https://github.com/philorien/portfolio/tree/main/case-studies/hope-church)**: Moved a church site off a hosted platform onto Next.js and Sanity, starting from a 22-point audit, with an automated WCAG 2.2 scan of every page. [Live site](https://www.hopechurchcolumbus.org) *Next.js, Sanity, Tailwind CSS, Vercel*
-- **[Dragonfly](https://github.com/philorien/portfolio/tree/main/case-studies/dragonfly)**: [One line: what it replaced and what it does.] *[Stack]*
+- **[Dragonfly Bookshop](https://github.com/philorien/portfolio/tree/main/case-studies/dragonfly)**: A first website for an independent bookstore, with the catalog pulled from the shop's Square register, online special orders, and events. 1,206 visitors in its first month. [Live site](https://www.dragonflybookshop.com) *Next.js, TypeScript, Square API, Airtable, Vercel*
 
 ## Selected work
 
