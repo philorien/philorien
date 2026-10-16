@@ -1,6 +1,6 @@
 # Hi, I'm Phil
 
-Software engineer in Columbus, Ohio. I build accessible, well-tested web apps in Vue/Nuxt and React/Next.js, and AI tools are a big part of how I work. **Open to software engineering roles.**
+Software engineer in Columbus, Ohio. I build accessible, well-tested web apps in Vue/Nuxt and React/Next.js, and AI tools are a big part of how I work. **Open to software engineering roles:** reach me on [LinkedIn](https://www.linkedin.com/in/phil-linley).
 
 - Shipped React and Next.js features at Hims & Hers (2024 to 2026) for a telehealth platform serving nearly 3 million customers, backed by Vitest, Playwright, and Datadog
 - Led my team's Claude Code rollout: documentation, training sessions, and a custom internal agent
@@ -35,7 +35,7 @@ Client code is private. Case studies, decision records, and scan results live in
 
 - **Accessibility first.** WCAG 2.2 AA is a requirement, not a polish step. Automated scans catch part of it; keyboard and screen reader testing cover the rest.
 - **Tested where it counts.** Vitest for components and server logic, and Playwright for end-to-end flows.
-- **Decisions written down.** Each project keeps short decision records explaining what I chose, what I rejected, and why.
+- **Decisions written down.** I write short decision records for the big calls, like [these for Hope Church](https://github.com/philorien/portfolio/tree/main/case-studies/hope-church/decisions): what I chose, what I rejected, and why.
 - **AI-assisted, human-reviewed.** I use Claude Code daily. I own the architecture and review everything it writes.
 
 ---
