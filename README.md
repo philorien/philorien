@@ -1,12 +1,12 @@
 # Hi, I'm Phil
 
-Frontend engineer in Columbus, Ohio. I build accessible, component-driven web products, and AI tools are a big part of how I work.
+Software engineer in Columbus, Ohio. I build accessible, well-tested web apps in Vue/Nuxt and React/Next.js, and AI tools are a big part of how I work. **Open to software engineering roles.**
 
-- Software engineer at Hims & Hers, shipping React and Next.js features for a telehealth platform serving nearly 3 million customers
+- Shipped React and Next.js features at Hims & Hers (2024 to 2026) for a telehealth platform serving nearly 3 million customers, backed by Vitest, Playwright, and Datadog
 - Led my team's Claude Code rollout: documentation, training sessions, and a custom internal agent
 - Built a Claude-powered WCAG audit tool that won the Audience Choice Award at our company hackathon
 - Previously built Meta.com launch pages for Meta Quest 3 and Ray-Ban Meta smart glasses
-- Run [Lorien Web](https://lorienweb.com), a small studio building accessible sites for small businesses, churches, and nonprofits
+- Run [Lorien Web](https://lorienweb.com), a small studio building accessible Nuxt and Next.js sites for small businesses, churches, and nonprofits
 
 ## Client work
 
@@ -17,9 +17,9 @@ Client code is private. Case studies, decision records, and scan results live in
 
 ## Selected work
 
-- **[a11y-scan](https://github.com/philorien/portfolio/tree/main/tools/a11y-scan)**: Runs axe-core against every page in a sitemap and fails CI on serious WCAG 2.2 issues. Works on any site with a sitemap. *Node, Playwright, axe-core*
+- **[Green Lantern Watch](https://greenlanternwatch.com)**: An unofficial Green Lantern fan site with news, reading orders, story arc guides, key issues, and a character database, edited in a Sanity Studio embedded in the app. Node scripts pull issue data from the ComicVine API, with caching and rate-limit handling, and sync covers, release dates, and creator credits into Sanity without touching editorial notes. JSON-LD, a sitemap, and an llms.txt help search engines and AI tools find it. 1,000+ page views in its first 24 hours. *Next.js 16, React 19, TypeScript, Tailwind CSS v4, Sanity, Vercel*
+- **[dcma-site](https://github.com/philorien/dcma-site)**: The [public website](https://www.doorcountymutualaid.org) for Door County Mutual Aid. Editors publish through Sanity without touching code, and a Sanity webhook triggers on-demand ISR so changes go live in seconds. The contact form posts to a validated server API, 50+ Vitest tests cover pages and server logic, and every image requires alt text. *Nuxt 4, Vue 3, TypeScript, Sanity, Vitest, Vercel*
 - **[calorie-chat-public](https://github.com/philorien/calorie-chat-public)**: A conversational calorie tracker. Claude looks up foods in USDA and Open Food Facts data, with barcode scanning and prompt caching to keep token costs down. *Next.js, TypeScript, Supabase, Vercel AI SDK*
-- **[dcma-site](https://github.com/philorien/dcma-site)**: The [public website](https://dcma-site.vercel.app) for Door County Mutual Aid. Editors publish through Sanity without touching code, pages use incremental static regeneration, and every image requires alt text. *Nuxt 4, Sanity, Vitest, Vercel*
 - **[vue-starter](https://github.com/philorien/vue-starter)**: A Vue 3 and Vite starter with Tailwind v4 and a built-in design system. *Vue 3, Vite, Tailwind CSS*
 - **[cbz2epub](https://github.com/philorien/cbz2epub)**: Converts CBZ comic archives to fixed-layout EPUB3, from the command line or a local web UI. The core runs on the Python standard library alone. *Python, Flask*
 
@@ -30,6 +30,7 @@ Client code is private. Case studies, decision records, and scan results live in
 ## How I work
 
 - **Accessibility first.** WCAG 2.2 AA is a requirement, not a polish step. Automated scans catch part of it; keyboard and screen reader testing cover the rest.
+- **Tested where it counts.** Vitest for components and server logic, Playwright for end-to-end flows, and accessibility scans in CI.
 - **Decisions written down.** Each project keeps short decision records explaining what I chose, what I rejected, and why.
 - **AI-assisted, human-reviewed.** I use Claude Code daily. I own the architecture and review everything it writes.
 
