@@ -25,7 +25,11 @@ Client code is private. Case studies, decision records, and scan results live in
 
 ## Open source
 
+- **[ChurchApps/Api#270](https://github.com/ChurchApps/Api/pull/270)**: In ChurchApps' free church management API, copying a plan now keeps its notes and signup deadline instead of dropping them, with tests for both cases
+- **[ChurchApps/B1Transfer#18](https://github.com/ChurchApps/B1Transfer/pull/18)**: In ChurchApps' data import tool, CSV columns now map to a church's own custom person fields (like Membership Date) by name, and anniversaries import correctly, with dates like `9/17/1994` normalized instead of saving blank
 - **[activist-org/activist#1939](https://github.com/activist-org/activist/pull/1939)**: Accessibility fixes for an open-source organizing platform, adding alt text to map tooltip images and making an edit toggle keyboard accessible
+- **[DieselTech/CBL-ReadingLists#555](https://github.com/DieselTech/CBL-ReadingLists/pull/555)** (open): Modern Green Lantern reading lists, 823 issues from 2004 through October 2026, plus a Jeremy Adams run and fixes to five existing lists, with every ComicVine ID checked against the API
+- **[AndBible/and-bible#3887](https://github.com/AndBible/and-bible/pull/3887)** (open): Turns off autocorrect in the Bible app's search fields so wildcard searches and suffix-heavy languages aren't rewritten as you type
 
 ## How I work
 
