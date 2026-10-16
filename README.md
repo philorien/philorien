@@ -34,7 +34,7 @@ Client code is private. Case studies, decision records, and scan results live in
 ## How I work
 
 - **Accessibility first.** WCAG 2.2 AA is a requirement, not a polish step. Automated scans catch part of it; keyboard and screen reader testing cover the rest.
-- **Tested where it counts.** Vitest for components and server logic, Playwright for end-to-end flows, and accessibility scans in CI.
+- **Tested where it counts.** Vitest for components and server logic, and Playwright for end-to-end flows.
 - **Decisions written down.** Each project keeps short decision records explaining what I chose, what I rejected, and why.
 - **AI-assisted, human-reviewed.** I use Claude Code daily. I own the architecture and review everything it writes.
 
