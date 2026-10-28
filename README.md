@@ -1,5 +1,10 @@
 # Hi, I'm Phil
 
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/terminal-static.svg">
+  <img src="./assets/terminal.svg" width="100%" alt="Animated terminal. Running neofetch shows a green pixel-art tree next to: Name Phil Linley, based in Columbus, OH, stack Vue/Nuxt, React/Next.js and Sanity, tests Vitest and Playwright, studio lorienweb.com, sites Dragonfly Bookshop and Hope Church, status open to roles. Then an axe-core scan of lorienweb.com and hopechurchcolumbus.org finds 0 violations on both and reminds that manual testing is always required, and a comment reads: now unplug the mouse and turn on VoiceOver.">
+</picture>
+
 Software engineer in Columbus, Ohio. I build accessible, well-tested web apps in Vue/Nuxt and React/Next.js, and AI tools are a big part of how I work. **Open to software engineering roles:** reach me on [LinkedIn](https://www.linkedin.com/in/phil-linley).
 
 - Shipped React and Next.js features at Hims & Hers (2024 to 2026) for a telehealth platform serving nearly 3 million customers, backed by Vitest, Playwright, and Datadog
