@@ -48,3 +48,5 @@ Client code is private. Case studies, decision records, and scan results live in
 ---
 
 Also working toward a BA in sociology at Ohio University. Find me on [LinkedIn](https://www.linkedin.com/in/phil-linley).
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-143727?style=flat&logo=buymeacoffee&logoColor=F4EFE5)](https://buymeacoffee.com/philorien)
